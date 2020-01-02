@@ -1,0 +1,80 @@
+body {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS83KVdA4vYvUyjmMHc0JYmUmCeAQ-LV07V0G5tvYfk3yfDa3bV&s"),url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAA1BMVEUAAACnej3aAAAASElEQVR4nO3BgQAAAADDoPlTX+AIVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDcaiAAFXD1ujAAAAAElFTkSuQmCC");
+    background-repeat: repeat-x, repeat;
+}
+
+img {
+    width: 500px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:13px;
+}
+
+.title {
+    text-align:center;
+    color:DarkSlateBlue ;
+    text-shadow:3px 5px 9px LightCoral;
+    font-family:'Monoton', cursive;
+    font-size:46px;
+}
+
+.artistchosen {
+    font-size:41px;
+    text-decoration:underline;
+}
+
+.artist {
+    color:HotPink  ;
+    font-family:'Norican', cursive;
+    text-align:center;
+}
+
+.moviechosen {
+    font-size:40px;
+}
+
+.movie {
+    font-family:'Courgette', cursive;
+    color:cyan;
+    text-align:center;
+}
+.musicchosen {
+    font-size:39px;
+}
+
+.music {
+    font-family:'Lobster', cursive;
+    color:deeppink;
+    text-align:center;
+}
+
+.albumchosen { 
+    font-size:41px;
+}
+
+.album {
+    font-family:'Lobster Two', cursive;
+    color: mediumspringgreen;
+    text-align:center;
+}
+
+.animalchosen {
+    font-size:51px;
+}
+
+.animal {
+    text-align:center;
+    color: DeepSkyBlue  ;
+    font-family: 'Quantico', sans-serif;
+}
+
+.showchosen {
+    font-size:40px;
+}
+
+.show {
+    color:IndianRed;
+    text-align:center;
+    font-family:'Merienda', cursive;
+}
